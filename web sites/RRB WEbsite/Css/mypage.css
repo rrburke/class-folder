@@ -1,0 +1,53 @@
+
+body {
+background-color: #2ff;
+color: #333;
+font-family: Georgia, "Times New Roman", sans-serif;
+background-image: url(images/essex.jpg);
+}
+#wrapper{
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+/*Web page creation--*/
+/*Client Side Programing*/
+/*Richard Burke*/
+/*spring 2009*/
+#lsq{
+margin-left:150px;
+width:0px;
+border: 10px solid transparent;
+border-bottom-color:#000}
+#ssq{
+margin-left: 150px;
+width: 0;
+border: 10px solid transparent;
+border-top-color: #000;
+border-left-color:red;
+border-right-color:white;}
+#leftcolumn {float: left;
+	padding:5px;
+	text-decoration: none;
+	
+	width: 110px;
+	background-color: #3cf;
+	}
+	
+h1{
+font-family: Georgia,sans-serif;
+font-size: x-large;
+background-color: navy;
+color: white;
+ 
+text-align: center;
+	padding-left: 30px;
+	
+	}
+
+ 
+
+#footer{
+font-family: Verdana,Arial,Helvetica,  sans-serif;
+ font-size: 70%; color:red; font-weight: bold;
+ }
